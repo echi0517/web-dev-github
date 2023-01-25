@@ -36,3 +36,16 @@ git checkout -- 깃 브렌치 바꾸기
 git checkout -b 브렌치명 -- 새로운 브렌치 생성
 
 git merge 브렌치명  -- 깃합침
+
+git rm 파일명 -- 파일삭제
+
+git reset  -- 이전 커밋자료로 돌리기위함
+
+git reset --hard -- 모든커밋자료롤백
+
+git reset --hard head~1 -- 1커밋전으로 롤백
+
+git branch -D 브렌치명 -- 브렌치 삭제
+
+
+git checkout -- . -- 마지막 커밋상태로 돌리기 (파일 수정된것들 롤백)
