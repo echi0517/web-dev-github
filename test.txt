@@ -1,1 +1,21 @@
 첫번쨰ㅑ 커밋
+
+다시 커밋
+
+git init   -- 깃초기화
+
+git status  -- 깃관리 
+
+git add 파일명 -- 깃에 파일 추가
+
+git commit -m "커밋메세지"  -- 커밋
+
+
+git config --global --edit
+
+
+git config --global user.name -- 현재사용중인 이름가져오기
+git config --global user.name "이름명" -- 이름 변경
+
+git config --global user.email -- 현재사용중인 이메일
+git config --global user.email "" -- 이메일 변경
