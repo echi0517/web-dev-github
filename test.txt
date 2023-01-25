@@ -29,3 +29,10 @@ git add . -- 스테이지에 있는 모든 파일 add
 
 git branch -- 브렌치 나타내기
 git branch -m main -- 마스터 브렌치명을 main으로 바꿔라
+
+
+git checkout -- 깃 브렌치 바꾸기
+
+git checkout -b 브렌치명 -- 새로운 브렌치 생성
+
+git merge 브렌치명  -- 깃합침
