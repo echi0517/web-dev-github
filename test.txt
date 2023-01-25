@@ -26,3 +26,6 @@ git config --global user.email "" -- 이메일 변경
 
 git add 파일명 파일명 --2개파일도 add 가능
 git add . -- 스테이지에 있는 모든 파일 add
+
+git branch -- 브렌치 나타내기
+git branch -m main -- 마스터 브렌치명을 main으로 바꿔라
