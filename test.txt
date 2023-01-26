@@ -58,4 +58,4 @@ protocol=https => ENTER
 
 git push origin main  -- push
 
-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
+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  토큰
