@@ -53,3 +53,9 @@ git checkout -- . -- 마지막 커밋상태로 돌리기 (파일 수정된것들
 git credential reject => ENTER
 host=github.com => ENTER
 protocol=https => ENTER
+
+
+
+git push origin main  -- push
+
+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
