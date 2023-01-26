@@ -59,3 +59,5 @@ protocol=https => ENTER
 git push origin main  -- push
 
 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  토큰
+
+git clone {url} . 깃 복사 (.은 폴더생성하지않고 그대로 복사
