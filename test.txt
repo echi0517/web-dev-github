@@ -49,3 +49,7 @@ git branch -D 브렌치명 -- 브렌치 삭제
 
 
 git checkout -- . -- 마지막 커밋상태로 돌리기 (파일 수정된것들 롤백)
+
+git credential reject => ENTER
+host=github.com => ENTER
+protocol=https => ENTER
